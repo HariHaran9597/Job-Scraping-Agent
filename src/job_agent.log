@@ -1,0 +1,889 @@
+2025-03-14 11:39:28,295 - INFO - ====== WebDriver manager ======
+2025-03-14 11:39:29,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:39:29,976 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:39:30,098 - INFO - There is no [win64] chromedriver "134.0.6998.88" for browser google-chrome "134.0.6998" in cache
+2025-03-14 11:39:30,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:39:30,538 - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-14 11:39:30,541 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-14 11:39:30,542 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-14 11:39:30,844 - INFO - Driver downloading response is 200
+2025-03-14 11:39:37,489 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:39:38,693 - INFO - Driver has been saved in cache [C:\Users\HariHaran\.wdm\drivers\chromedriver\win64\134.0.6998.88]
+2025-03-14 11:40:20,673 - INFO - ====== WebDriver manager ======
+2025-03-14 11:40:21,857 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:40:22,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:40:22,130 - INFO - Driver [C:\Users\HariHaran\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-03-14 11:49:49,920 - INFO - ====== WebDriver manager ======
+2025-03-14 11:49:50,723 - INFO - There is no [win32] chromedriver "latest" for browser google-chrome "134.0.6998" in cache
+2025-03-14 11:49:50,723 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:50:43,878 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-14 11:50:47,638 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\HariHaran\AppData\Roaming\Python\Python311\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-14 11:52:55,133 - INFO - Downloading chromedriver (134.0.6998.88)...
+2025-03-14 11:53:04,866 - INFO - Starting job search...
+2025-03-14 11:53:28,857 - ERROR - Failed to login to Indeed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F5B5A3+24387]
+	(No symbol) [0x00EE5904]
+	(No symbol) [0x00DC0753]
+	(No symbol) [0x00E08BA9]
+	(No symbol) [0x00E08EFB]
+	(No symbol) [0x00E519C2]
+	(No symbol) [0x00E2D894]
+	(No symbol) [0x00E4F138]
+	(No symbol) [0x00E2D646]
+	(No symbol) [0x00DFC59F]
+	(No symbol) [0x00DFD8E4]
+	GetHandleVerifier [0x0125D883+3179043]
+	GetHandleVerifier [0x01276CF9+3282585]
+	GetHandleVerifier [0x0127167C+3260444]
+	GetHandleVerifier [0x00FF4330+650448]
+	(No symbol) [0x00EEED0D]
+	(No symbol) [0x00EEBAF8]
+	(No symbol) [0x00EEBC99]
+	(No symbol) [0x00EDE530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 11:53:28,858 - ERROR - Failed to login to Indeed. Please check your credentials.
+2025-03-14 12:01:01,460 - INFO - Chromedriver is already installed.
+2025-03-14 12:01:03,879 - INFO - Starting job search...
+2025-03-14 12:01:13,319 - INFO - Successfully logged into LinkedIn
+2025-03-14 12:01:13,320 - INFO - Searching for Machine Learning Engineer jobs in Remote
+2025-03-14 12:01:45,709 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:01:45,714 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Remote
+2025-03-14 12:01:48,715 - INFO - Searching for Machine Learning Engineer jobs in Bengaluru
+2025-03-14 12:02:23,166 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:02:23,167 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Bengaluru
+2025-03-14 12:02:26,168 - INFO - Searching for Machine Learning Engineer jobs in Chennai
+2025-03-14 12:03:00,699 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:03:00,699 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Chennai
+2025-03-14 12:03:03,701 - INFO - Searching for Data Scientist jobs in Remote
+2025-03-14 12:03:55,473 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:03:55,473 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Remote
+2025-03-14 12:03:58,475 - INFO - Searching for Data Scientist jobs in Bengaluru
+2025-03-14 12:04:14,476 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E22AA]
+	(No symbol) [0x008E1707]
+	(No symbol) [0x008E12A3]
+	(No symbol) [0x008E0FB1]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F426]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:14,476 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Bengaluru
+2025-03-14 12:04:17,477 - INFO - Searching for Data Scientist jobs in Chennai
+2025-03-14 12:04:17,478 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:17,478 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Chennai
+2025-03-14 12:04:20,479 - INFO - Searching for ML Engineer jobs in Remote
+2025-03-14 12:04:20,483 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:20,483 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Remote
+2025-03-14 12:04:23,485 - INFO - Searching for ML Engineer jobs in Bengaluru
+2025-03-14 12:04:23,487 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:23,487 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Bengaluru
+2025-03-14 12:04:26,488 - INFO - Searching for ML Engineer jobs in Chennai
+2025-03-14 12:04:26,492 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:26,492 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Chennai
+2025-03-14 12:04:29,493 - INFO - Searching for AI Engineer jobs in Remote
+2025-03-14 12:04:29,498 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:04:29,499 - INFO - Found 0 matching Easy Apply jobs for AI Engineer in Remote
+2025-03-14 12:07:08,177 - INFO - Chromedriver is already installed.
+2025-03-14 12:07:10,393 - INFO - Starting job search...
+2025-03-14 12:08:32,426 - INFO - Successfully logged into LinkedIn
+2025-03-14 12:08:32,427 - INFO - Searching for Machine Learning Engineer jobs in Remote
+2025-03-14 12:10:24,652 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:10:24,658 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Remote
+2025-03-14 12:10:27,659 - INFO - Searching for Machine Learning Engineer jobs in Bengaluru
+2025-03-14 12:12:22,844 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:12:22,845 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Bengaluru
+2025-03-14 12:12:25,847 - INFO - Searching for Machine Learning Engineer jobs in Chennai
+2025-03-14 12:14:23,691 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:23,691 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Chennai
+2025-03-14 12:14:26,693 - INFO - Searching for Data Scientist jobs in Remote
+2025-03-14 12:14:26,831 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FE167]
+	(No symbol) [0x0097F30F]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:26,836 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Remote
+2025-03-14 12:14:29,839 - INFO - Searching for Data Scientist jobs in Bengaluru
+2025-03-14 12:14:29,841 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:29,841 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Bengaluru
+2025-03-14 12:14:32,842 - INFO - Searching for Data Scientist jobs in Chennai
+2025-03-14 12:14:32,844 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:32,844 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Chennai
+2025-03-14 12:14:35,845 - INFO - Searching for ML Engineer jobs in Remote
+2025-03-14 12:14:35,848 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:35,848 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Remote
+2025-03-14 12:14:38,849 - INFO - Searching for ML Engineer jobs in Bengaluru
+2025-03-14 12:14:38,854 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:38,855 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Bengaluru
+2025-03-14 12:14:41,856 - INFO - Searching for ML Engineer jobs in Chennai
+2025-03-14 12:14:41,859 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:14:41,860 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Chennai
+2025-03-14 12:16:31,140 - INFO - Chromedriver is already installed.
+2025-03-14 12:16:33,437 - INFO - Starting job search...
+2025-03-14 12:17:46,778 - INFO - Successfully logged into LinkedIn
+2025-03-14 12:17:46,778 - INFO - Searching for Machine Learning Engineer jobs in Remote
+2025-03-14 12:19:39,746 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:19:39,746 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Remote
+2025-03-14 12:19:42,747 - INFO - Searching for Machine Learning Engineer jobs in Bengaluru
+2025-03-14 12:20:41,501 - ERROR - Error extracting job listings: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F0753]
+	(No symbol) [0x00938BA9]
+	(No symbol) [0x00938EFB]
+	(No symbol) [0x009819C2]
+	(No symbol) [0x0095D894]
+	(No symbol) [0x0097F138]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:20:41,502 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Bengaluru
+2025-03-14 12:20:44,503 - INFO - Searching for Machine Learning Engineer jobs in Chennai
+2025-03-14 12:21:06,493 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E22AA]
+	(No symbol) [0x008E1707]
+	(No symbol) [0x008E12A3]
+	(No symbol) [0x008E0FB1]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F426]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:06,494 - INFO - Found 0 matching Easy Apply jobs for Machine Learning Engineer in Chennai
+2025-03-14 12:21:09,495 - INFO - Searching for Data Scientist jobs in Remote
+2025-03-14 12:21:09,498 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:09,499 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Remote
+2025-03-14 12:21:12,501 - INFO - Searching for Data Scientist jobs in Bengaluru
+2025-03-14 12:21:12,503 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:12,503 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Bengaluru
+2025-03-14 12:21:15,504 - INFO - Searching for Data Scientist jobs in Chennai
+2025-03-14 12:21:15,507 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:15,508 - INFO - Found 0 matching Easy Apply jobs for Data Scientist in Chennai
+2025-03-14 12:21:18,510 - INFO - Searching for ML Engineer jobs in Remote
+2025-03-14 12:21:18,513 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:18,514 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Remote
+2025-03-14 12:21:21,515 - INFO - Searching for ML Engineer jobs in Bengaluru
+2025-03-14 12:21:21,518 - ERROR - Error searching jobs: Message: tab crashed
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A8B5A3+24387]
+	(No symbol) [0x00A15904]
+	(No symbol) [0x008F05CE]
+	(No symbol) [0x008E0F70]
+	(No symbol) [0x008DEE80]
+	(No symbol) [0x008DFA3D]
+	(No symbol) [0x008EC049]
+	(No symbol) [0x008FD9B5]
+	(No symbol) [0x00903266]
+	(No symbol) [0x008E004D]
+	(No symbol) [0x008FD243]
+	(No symbol) [0x0097F047]
+	(No symbol) [0x0095D646]
+	(No symbol) [0x0092C59F]
+	(No symbol) [0x0092D8E4]
+	GetHandleVerifier [0x00D8D883+3179043]
+	GetHandleVerifier [0x00DA6CF9+3282585]
+	GetHandleVerifier [0x00DA167C+3260444]
+	GetHandleVerifier [0x00B24330+650448]
+	(No symbol) [0x00A1ED0D]
+	(No symbol) [0x00A1BAF8]
+	(No symbol) [0x00A1BC99]
+	(No symbol) [0x00A0E530]
+	BaseThreadInitThunk [0x75D67BA9+25]
+	RtlInitializeExceptionChain [0x7706C2EB+107]
+	RtlClearBits [0x7706C26F+191]
+
+2025-03-14 12:21:21,519 - INFO - Found 0 matching Easy Apply jobs for ML Engineer in Bengaluru
