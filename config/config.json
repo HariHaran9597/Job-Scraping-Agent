@@ -1,0 +1,52 @@
+{
+    "job_search": {
+        "keywords": [
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "ML Engineer",
+            "AI Engineer"
+        ],
+        "locations": [
+            "Remote",
+            "Bengaluru",
+            "Chennai"
+        ],
+        "experience_level": "Entry Level",
+        "job_type": "full-time",
+        "posted_within": "last 14 days"
+    },
+    "auto_apply": {
+        "max_applications_per_day": 15,
+        "blacklist_companies": [],
+        "required_keywords": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "tensorflow",
+            "pytorch",
+            "nlp",
+            "computer vision",
+            "aws",
+            "sql"
+        ],
+        "exclude_keywords": [
+            "senior",
+            "lead",
+            "principal",
+            "architect",
+            "10+ years",
+            "15+ years"
+        ]
+    },
+    "resume_path": "d:/Agent/Hariharan_resume_ML.pdf",
+    "browser_settings": {
+        "headless": false,
+        "timeout": 20
+    },
+    "credentials": {
+        "indeed_email": "heyhariharan.r@gmail.com",
+        "indeed_password": "Hariharan@95",
+        "linkedin_email": "hariharan.r9597@gmail.com",
+        "linkedin_password": "Hariharan@95"
+    }
+}
